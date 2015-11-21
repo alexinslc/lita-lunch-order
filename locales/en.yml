@@ -1,0 +1,10 @@
+en:
+  lita:
+    handlers:
+      lunch_order:
+        fallback: "????"
+        empty: "No orders added yet."
+        added: "%{order} has been added"
+        duplicate: "I already know about %{order}"
+        removed: "%{order} has been removed"
+        unfound: "You will need to be more specific"
