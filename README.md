@@ -2,6 +2,14 @@
 
 [![Build Status](https://travis-ci.org/alexinslc/lita-lunch-order.png?branch=master)](https://travis-ci.org/alexinslc/lita-lunch-order)
 
+TODO:
+
+ * Add creator of order to order.
+ * Add `lunch-order take / take lunch orders` command and pass name of place and link to menu.
+ * Add functionality to send email with all orders included to a specified email address.
+ * Add functionality to automatically send Jimmy Johns order.
+ * Add `lunch-order arrived` to tell everyone the food has arrived. 
+
 A lita handler to help you take lunch orders.
 
 Populate Lita with a list of your coworker's lunch orders so when you're ready to email / call you have them all ready for you.
