@@ -4,10 +4,10 @@
 [ ![Codeship Status for alexinslc/lita-lunch-order](https://codeship.com/projects/1180ce70-7136-0133-4bee-4254a0d12432/status?branch=master)](https://codeship.com/projects/116819)
 
 
-Travis: [![Travis](https://img.shields.io/travis/rust-lang/rust.svg?style=flat-square)](https://travis-ci.org/alexinslc/lita-lunch-order)
+[![Travis](https://img.shields.io/travis/alexinslc/lita-lunch-order.svg?style=flat-square)](https://travis-ci.org/alexinslc/lita-lunch-order)
 
 
-Gem: [![Gem](https://img.shields.io/gem/dtv/rails.svg?style=flat-square)](https://rubygems.org/gems/lita-lunch-order)
+[![Gem](https://img.shields.io/gem/dtv/lita-lunch-order.svg?style=flat-square)](https://rubygems.org/gems/lita-lunch-order)
 
 ### TODO:
 
