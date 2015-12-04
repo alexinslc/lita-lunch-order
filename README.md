@@ -11,11 +11,14 @@
 
 ### TODO:
 
- * Add creator of order to order.
+ * Add `lunch-order help` command to display useful commands.
+ * Add functionality so you don't have to @bot_name the commands.
+ * Add creator of order to the order.
  * Add `lunch-order take / take lunch orders` command and pass name of place and link to menu.
- * Add functionality to send email with all orders included to a specified email address.
- * Add functionality to automatically send Jimmy Johns order.
+ * Add functionality to automatically send Jimmy Johns orders. Similar to: [sudo make me a sandwich](https://www.npmjs.com/package/makemeasandwich)
+ * Add `take lunch orders for Costa Vida` (this will post a notification with a link to the food menu). Ex: `Now taking orders for Costa Vida, check out their menu here: http://www.costavida.net/menu/`
  * Add `lunch-order arrived` to tell everyone the food has arrived.
+ * Add functionality to send email with all orders included to a specified email address.
 
 A lita handler to help you take lunch orders.
 
